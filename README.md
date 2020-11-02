@@ -4,7 +4,7 @@ Junior Web Developper, Know Im learning about Laravel
 
 
 
-<h1>Technology<h1>
+<h1>Technology</h1>
   
 <ul>
   <li>Html, Css, Sass, Bootstrap, Javascript</li>
