@@ -14,7 +14,7 @@ Junior Web Developper,based in Morocco. Now Im learning Laravel, and I enjoy to 
 <div></div>
 <div></div>
 <div></div>
-U+1F469 U+200D U+1F4BB <a href="https://www.linkedin.com/in/majda-fannan-030640110/"> LinkedIn<a>
+<a href="https://www.linkedin.com/in/majda-fannan-030640110/"> LinkedIn<a>
 
 
 
