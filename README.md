@@ -1,6 +1,6 @@
 ### Hi there 👋 My Name is Majda FANNAN
 
-Junior Web Developper, Know Im learning about Laravel 
+Junior Web Developper, Now Im learning Laravel, 
 
 
 
@@ -15,8 +15,6 @@ Junior Web Developper, Know Im learning about Laravel
 <div></div>
 <div></div>
 <div></div>
-<hr>
-
 <a href="https://www.linkedin.com/in/majda-fannan-030640110/"> LinkedIn<a>
 
 
