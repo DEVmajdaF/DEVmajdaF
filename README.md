@@ -11,9 +11,11 @@ Junior Web Developper, Know Im learning about Laravel
   <li>Sql, PHP</li>
   <li>Ui/Ux Design</li>
 </ul>  
-  
 
-
+<div></div>
+<div></div>
+<div></div>
+<hr>
 
 <a href="https://www.linkedin.com/in/majda-fannan-030640110/"> LinkedIn<a>
 
