@@ -1,10 +1,8 @@
 ### Hi there 👋 My Name is Majda FANNAN
 
-Junior Web Developper, Now Im learning Laravel, 
+Junior Web Developper,based in Morocco. Now Im learning Laravel,I enjoy building website.
 
-
-
-<h1>Technology</h1>
+<h1>Technologies</h1>
   
 <ul>
   <li>Html, Css, Sass, Bootstrap, Javascript</li>
