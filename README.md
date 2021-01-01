@@ -1,4 +1,4 @@
-### Hi there 👋 My Name is Majda FANNAN
+### Hi there 👋.
 
 Junior Web Developper,based in Morocco.I enjoy to building new websites.
 
